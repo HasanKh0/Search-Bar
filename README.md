@@ -10,10 +10,10 @@ Make sure to install these on your device:
 
 clone the repository: 
 Type in the terminal in visual studio code or other softwares:
-"git clone https://github.com/HasanKh0/Search-Bar"
-"cd Search-Bar"
-"npm install"
-"npm start"
+"git clone https://github.com/HasanKh0/Search-Bar" --->(new line)
+"cd Search-Bar" --->(new line)
+"npm install" --->(new line)
+"npm start" 
 
 The project should open automatically
 
