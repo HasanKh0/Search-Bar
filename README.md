@@ -13,8 +13,11 @@ Type in the terminal in visual studio code or other softwares:
 "git clone https://github.com/HasanKh0/Search-Bar" --->(new line)
 "cd Search-Bar" --->(new line)
 "npm install" --->(new line)
-"npm start" 
+"cd react-Search-Bar"---->(new line)
+"npm run dev" 
 
-The project should open automatically
+The project will give you the localhost link to the website.
+
+Thanks for visiting my react Project and I hope you like it.
 
 
